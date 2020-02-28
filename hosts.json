@@ -1,0 +1,8 @@
+[
+    {"ip": "10.8.0.2", "name": "Laptop"},
+    {"ip": "10.8.0.3", "name": "Home Pi"},
+    {"ip": "10.8.0.4", "name": "Power Server"},
+    {"ip": "10.8.0.5", "name": "Dorm Pi"},
+    {"ip": "10.8.0.6", "name": "iPhone"},
+    {"ip": "10.8.0.8", "name": "Pi Zero?"}
+]

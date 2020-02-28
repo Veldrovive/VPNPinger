@@ -1,0 +1,17 @@
+{
+  "name": "vpn_ping",
+  "version": "0.0.1",
+  "description": "A system to ping devices on my vpn",
+  "main": "index.js",
+  "scripts": {
+    "start": "node vpnPing.js",
+    "test": "node tester.js",
+    "debug": "node --nolazy --inspect-brk=9229 vpnPing.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ping": "^0.2.2",
+    "socket.io-client": "^2.3.0"
+  }
+}
